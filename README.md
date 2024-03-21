@@ -21,7 +21,7 @@
 <a href="https://twitter.com/krunalhp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krunalhp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/krunalhp123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krunalhp123" height="30" width="40" /></a>
 <a href="https://fb.com/krunalhp123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krunalhp123" height="30" width="40" /></a>
-<a href="https://instagram.com/krunalhp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krunalhp" height="30" width="40" /></a>
+<a href="https://instagram.com/krunalhp123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krunalhp" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/krunalhp123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="krunalhp123" height="30" width="40" /></a>
 </p>
 
