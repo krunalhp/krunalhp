@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **AI and ML**
 
-- 💬 Ask me about **Cars, Bikes, Electronics, Farming, VFM buys on Amazon, Interior Designing and Hardwares, Space Exploration, Must watch series, Ayurveda and Sanatan Dharma**
+- 💬 My hobbies are **Cars, Bikes, Electronics, Farming, Negotiating, Interior Designing, Netflix, Ayurveda and Spirituality**
 
 - 📫 How to reach me **krunalhp123@gmail.com**
 
