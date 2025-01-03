@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for **Morgan Stanley**
 
-- 🌱 I’m currently learning **about Stable Diffusion**
+- 🌱 I’m currently learning **about AI/ML and Vector search**
 
 - 👯 I’m looking to collaborate on **AI and ML**
 
