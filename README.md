@@ -23,7 +23,7 @@
 <a href="https://www.youtube.com/c/krunalhp123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="krunalhp123" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools explored:</h3>
 <p align="left">
 <!-- Trending AI Tools -->
 <a href="https://openai.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="40" height="40"/> </a>
