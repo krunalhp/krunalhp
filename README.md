@@ -2,8 +2,7 @@
 
 **`Software Developer | Tech Enthusiast | Lifelong Learner`**
 
-Welcome to my GitHub profile! I'm Krunal Patel, a passionate software developer with a knack for creating efficient and innovative solutions. My journey in the tech world is driven by curiosity and a relentless desire to learn and grow.
-
+I am an engineer with a deep belief that the universe is the ultimate truth, and we are small in its vastness. The improbability of our existence fascinates me, and while I engage with the physical world to learn and grow, I understand its meaninglessness in a larger context. For me, true wealth lies in inner peace and satisfaction.
 ---
 
 ## 🛠️ Technologies & Tools
