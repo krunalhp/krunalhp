@@ -32,9 +32,7 @@ I'm currently diving deeper into:
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [linkedin.com/in/krunal-patel](https://www.linkedin.com/in/krunal-patel)
-- **Twitter**: [@krunal_dev](https://twitter.com/krunal_dev)
-- **Personal Website**: [krunalpatel.dev](https://krunalpatel.dev)
+- **LinkedIn**: [krunalhp123](https://www.linkedin.com/in/krunalhp123/)
 
 Feel free to reach out if you'd like to collaborate on a project or just want to chat about technology!
 
